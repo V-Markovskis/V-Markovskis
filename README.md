@@ -13,12 +13,11 @@ My LinkedIn profile <span style="color: green;">→</span> [![LinkedIn](https://
 
 <br>
 
-:sunny:Talking about my hobbies, I enjoy: 
+### :sunny:Talking about my hobbies, I enjoy: 
 
 - Watching streams – usually checking out games like Among Us, where player can be the sneaky imposter and create some fun chaos.
 - Occasionally, video games provide me a great way to unwind. I've spent a lot of time playing World of Warcraft and Apex Legends.
 - Hitting the gym not only makes me strong but also clears my mind. I highly recommend it to everyone!
-
 
 
 
