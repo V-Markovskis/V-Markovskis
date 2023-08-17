@@ -26,6 +26,12 @@ My LinkedIn profile <span style="color: green;">→</span> [![LinkedIn](https://
 - Version Control: Git
 - Others: MS Office (Excel functions, Pivot tables), SAP ERP, JWT Authentication, Outlook, International Teamwork, Communication, Analytical skills
 
+#### Getting to Know Me Better:
+- I'm working on enhancing my skills and knowledge
+- I'm currently mastering Java and its complexities
+- Most of my projects are available on [GitHub](https://github.com/V-Markovskis?tab=repositories)
+- Feel welcome to reach out to me [LinkedIn](https://www.linkedin.com/in/vlads-markovskis/)
+- I'm passionate about continuous learning and self-improvement
 
 
 <!---
