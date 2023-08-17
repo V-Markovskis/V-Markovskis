@@ -33,6 +33,9 @@ My LinkedIn profile <span style="color: green;">→</span> [![LinkedIn](https://
 - Feel welcome to reach out to me [LinkedIn](https://www.linkedin.com/in/vlads-markovskis/)
 - I'm passionate about continuous learning and self-improvement
 
+#### Languages and Tools:
+![Java Logo](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
+
 
 <!---
 V-Markovskis/V-Markovskis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
