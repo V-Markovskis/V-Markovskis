@@ -19,21 +19,21 @@ My LinkedIn profile <span style="color: green;">→</span> [![LinkedIn](https://
 
 
 #### :ghost: Skill Portfolio: 
-- Back-end development: Java (11, 17), Spring Boot, REST, Gradle and Maven(basic)
-- Front-end development: TypeScript, JavaScript, HTML, CSS
-- Test Tools: Postman, Swagger UI
-- Database tools: H2, SQLite, JDBC
-- Version Control: Git
-- Others: MS Office (Excel functions, Pivot tables), SAP ERP, JWT Authentication, Outlook, International Teamwork, Communication, Analytical skills
+- :waxing_crescent_moon: Back-end development: Java (11, 17), Spring Boot, REST, Gradle and Maven(basic)
+- :first_quarter_moon: Front-end development: TypeScript, JavaScript, HTML, CSS
+- :waxing_gibbous_moon: Test Tools: Postman, Swagger UI
+- :full_moon: Database tools: H2, SQLite, JDBC
+- :waning_gibbous_moon: Version Control: Git
+- :last_quarter_moon: Others: MS Office (Excel functions, Pivot tables), SAP ERP, JWT Authentication, Outlook, International Teamwork, Communication, Analytical skills
 
-#### Getting to Know Me Better:
-- I'm working on enhancing my skills and knowledge
-- I'm currently mastering Java and its complexities
-- Most of my projects are available on [GitHub](https://github.com/V-Markovskis?tab=repositories)
-- Feel welcome to reach out to me [LinkedIn](https://www.linkedin.com/in/vlads-markovskis/)
-- I'm passionate about continuous learning and self-improvement
+#### :hatching_chick: Getting to Know Me Better:
+- :high_brightness: I'm working on enhancing my skills and knowledge
+- :leaves: I'm currently mastering Java and its complexities
+- :books: Most of my projects are available on [GitHub](https://github.com/V-Markovskis?tab=repositories)
+- :four_leaf_clover: Feel welcome to reach out to me [LinkedIn](https://www.linkedin.com/in/vlads-markovskis/)
+- :fire: I'm passionate about continuous learning and self-improvement
 
-#### Languages and Tools:
+#### :wrench: Languages and Tools:
 ![Java Logo](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
 ![Spring Boot Logo](https://img.icons8.com/color/48/000000/spring-logo.png)
 <img src="https://www.h2database.com/html/images/h2-logo-2.png" alt="H2 Database Logo" width="50" height="50">
@@ -43,8 +43,9 @@ My LinkedIn profile <span style="color: green;">→</span> [![LinkedIn](https://
 
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=V-Markovskis&theme=2077)
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=V-Markovskis&theme=2077)
 
 
 
