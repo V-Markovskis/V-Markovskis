@@ -48,9 +48,9 @@ My LinkedIn profile <span style="color: green;">→</span> [![LinkedIn](https://
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=V-Markovskis&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=V-Markovskis&theme=blue_green)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=V-Markovskis&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=V-Markovskis&theme=blue_green)
 
 
 
