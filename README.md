@@ -27,6 +27,11 @@ My LinkedIn profile <span style="color: green;">→</span> [![LinkedIn](https://
 - :last_quarter_moon: Others: MS Office (Excel functions, Pivot tables), SAP ERP, JWT Authentication, Outlook, International Teamwork, Communication, Analytical skills
 
 #### :hatching_chick: Getting to Know Me Better:
+
+<div>
+  <img src="https://media.tenor.com/Xwi__TiYmpsAAAAC/slushe-nessie.gif" align="right" width="200" />
+</div>
+
 - :high_brightness: I'm working on enhancing my skills and knowledge
 - :leaves: I'm currently mastering Java and its complexities
 - :books: Most of my projects are available on [GitHub](https://github.com/V-Markovskis?tab=repositories)
