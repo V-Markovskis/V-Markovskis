@@ -36,6 +36,14 @@ My LinkedIn profile <span style="color: green;">→</span> [![LinkedIn](https://
 #### Languages and Tools:
 ![Java Logo](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
 ![Spring Boot Logo](https://img.icons8.com/color/48/000000/spring-logo.png)
+<img src="https://www.h2database.com/html/images/h2-logo-2.png" alt="H2 Database Logo" width="50" height="50">
+<img src="https://help.apiary.io/images/swagger-logo.png" alt="Swagger Logo" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="SQLite Logo" width="50" height="50">
+<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman Logo" width="50" height="50">
+
+
+
+
 
 
 
