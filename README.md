@@ -2,14 +2,15 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&vCenter=true&width=700&lines=I%E2%80%99m+software+engineer+with+focus+on+full-stack+development." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&vCenter=true&width=700&lines=I%E2%80%99m+software+engineer+with+focus+on+full-stack+development.&repeat=false" alt="Typing SVG" />
   </a>
 </div>
 
 My LinkedIn profile <span style="color: green;">→</span> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=ССЫЛКА_НА_ВАШ_ПРОФИЛЬ)](https://www.linkedin.com/in/vlads-markovskis/)
 
 
-*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"How I started programming... Well, there's no clear answer here, I think it all began with a friendly piece of advice. Learning programming... about 3 years with breaks. Each time, it felt like it might not be my thing. Yet, the genuine joy that came from completing a task or project was undeniable. I initially dipped my toes into JavaScript, but I eventually pivoted towards Java. I knew one thing for sure - there are countless programming languages out there, and I wanted to pick one and commit to growing within it. At that point, I was clueless about languages, so I stumbled upon a random Java tutorial video - a clear decision was made to delve into the world of backend development."* :bowtie:
+*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+My journey into programming started ambiguously, sparked by a simple piece of advice. The learning process spanned about three years, interspersed with breaks and moments of doubt about my compatibility with the field. However, the undeniable satisfaction from completing tasks and projects kept me going. I initially explored JavaScript but soon shifted my focus to Java, choosing to specialize and grow in one language among the myriad available. My path into backend development became clear after randomly encountering a Java tutorial, leading me to start with Java and then transition to front-end development with TypeScript."* :bowtie:
 
 #### :sunny:Talking about my hobbies, I enjoy: 
 
