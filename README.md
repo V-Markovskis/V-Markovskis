@@ -23,7 +23,7 @@ My journey into programming started ambiguously, sparked by a simple piece of ad
 - :waxing_crescent_moon: Back-end development: OOP Java & Spring Boot, REST, Gradle and Maven(basic)
 - :first_quarter_moon: Front-end development: React, JavaScript & TypeScript, HTML & CSS, AngularJS, Vue.js
 - :waxing_gibbous_moon: Test Tools: Postman, Swagger UI
-- :full_moon: Database tools: H2, SQLite, JDBC, MySQL
+- :full_moon: Database tools: MySQL, H2, SQLite, JDBC
 - :waning_gibbous_moon: Version Control: Git
 - :last_quarter_moon: Others: MS Office (Excel functions, Pivot tables), SAP ERP, Outlook, International Teamwork, Communication, Analytical skills
 
