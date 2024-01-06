@@ -20,12 +20,12 @@ My journey into programming started ambiguously, sparked by a simple piece of ad
 
 
 #### :ghost: Skill Portfolio: 
-- :waxing_crescent_moon: Back-end development: Java (11, 17), Spring Boot, REST, Gradle and Maven(basic)
-- :first_quarter_moon: Front-end development: TypeScript, JavaScript, HTML, CSS
+- :waxing_crescent_moon: Back-end development: OOP Java & Spring Boot, REST, Gradle and Maven(basic)
+- :first_quarter_moon: Front-end development: React, JavaScript & TypeScript, HTML & CSS, AngularJS, Vue.js
 - :waxing_gibbous_moon: Test Tools: Postman, Swagger UI
-- :full_moon: Database tools: H2, SQLite, JDBC
+- :full_moon: Database tools: H2, SQLite, JDBC, MySQL
 - :waning_gibbous_moon: Version Control: Git
-- :last_quarter_moon: Others: MS Office (Excel functions, Pivot tables), SAP ERP, JWT Authentication, Outlook, International Teamwork, Communication, Analytical skills
+- :last_quarter_moon: Others: MS Office (Excel functions, Pivot tables), SAP ERP, Outlook, International Teamwork, Communication, Analytical skills
 
 #### :hatching_chick: Getting to Know Me Better:
 
@@ -42,10 +42,12 @@ My journey into programming started ambiguously, sparked by a simple piece of ad
 #### :wrench: Languages and Tools:
 ![Java Logo](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
 ![Spring Boot Logo](https://img.icons8.com/color/48/000000/spring-logo.png)
-<img src="https://www.h2database.com/html/images/h2-logo-2.png" alt="H2 Database Logo" width="50" height="50">
+<img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL logo" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="MySQL logo" width="50" height="50">
 <img src="https://help.apiary.io/images/swagger-logo.png" alt="Swagger Logo" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="SQLite Logo" width="50" height="50">
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman Logo" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/512px-React_Logo_SVG.svg.png" alt="React logo" width="50" height="50">
 
 
 
